@@ -1,0 +1,3 @@
+# Reflections
+
+We'll put explanations of any obstacles you encountered, reflections, and goals here.
