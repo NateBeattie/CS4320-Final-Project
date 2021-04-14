@@ -1,4 +1,5 @@
-# Augur README
+# Group 12 Final Project:
+# Copy of Augur README
 
 branch | status
    --- | ---
