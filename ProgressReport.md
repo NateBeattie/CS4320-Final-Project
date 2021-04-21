@@ -7,3 +7,5 @@ At this point, it seems like our scope is okay. However, once we start making ch
 # Sprint 2 Progress Report:
 
 Indication about whether or not you need to update your scope:
+
+I think we may need to bring our focus specifically to the backend installation of the install, both since none of our group members have successfully deployed the frontend, as well as electing to create as robust a documentation as possible, and I think if we try to work on the frontend we don't even understand ourselves, we may begin to neglect the portion that we can provide the most help, which is the backend. Especially with this time limit, I would rather have a strong improvement on the frontend section than to be spread too thin trying to implement both. 
