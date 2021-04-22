@@ -1,3 +1,3 @@
 # Sprint 2 Reflections
 
-This sprint went ... 
+This sprint went pretty smoothly as well. 
