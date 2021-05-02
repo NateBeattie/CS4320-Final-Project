@@ -14,4 +14,12 @@ I think we may need to bring our focus specifically to the backend installation 
 
 Indication about whether or not you need to update your scope:
 
-We have decided to focus our scope on creating documentation only up to the point to get the backend components working. This change will help with the managabiliy and feasibility to create a useful and comprehensive update to augur docs. It is also advatageous since if we were to write about installing the frontend, we wouldn't know what to do since we were unsuccessful in our attempts. Addionally, we decided we also will not focus on the section titled "Collecting Data" as we also do not have experience or knowledge of how this section works. 
+We have decided to focus our scope on creating documentation only up to the point to get the backend components working. This change will help with the managabiliy and feasibility to create a useful and comprehensive update to augur docs. It is also advatageous since if we were to write about installing the frontend, we wouldn't know what to do since we were unsuccessful in our attempts. Addionally, we decided we also will not focus on the section titled "Collecting Data" as we also do not have experience or knowledge of how this section works.
+
+# Sprint 4 Progress Report:
+
+Indication about whether or not you need to update your scope:
+
+# Sprint 5 Progress Report:
+
+Indication about whether or not you need to update your scope:
