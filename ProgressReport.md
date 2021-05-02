@@ -9,3 +9,17 @@ At this point, it seems like our scope is okay. However, once we start making ch
 Indication about whether or not you need to update your scope:
 
 I think we may need to bring our focus specifically to the backend installation of the install, both since none of our group members have successfully deployed the frontend, as well as electing to create as robust a documentation as possible, and I think if we try to work on the frontend we don't even understand ourselves, we may begin to neglect the portion that we can provide the most help, which is the backend. Especially with this time limit, I would rather have a strong improvement on the frontend section than to be spread too thin trying to implement both. 
+
+# Sprint 3 Progress Report:
+
+Indication about whether or not you need to update your scope:
+
+We have decided to focus our scope on creating documentation only up to the point to get the backend components working. This change will help with the managabiliy and feasibility to create a useful and comprehensive update to augur docs. It is also advatageous since if we were to write about installing the frontend, we wouldn't know what to do since we were unsuccessful in our attempts. Addionally, we decided we also will not focus on the section titled "Collecting Data" as we also do not have experience or knowledge of how this section works.
+
+# Sprint 4 Progress Report:
+
+Indication about whether or not you need to update your scope:
+
+# Sprint 5 Progress Report:
+
+Indication about whether or not you need to update your scope:
