@@ -20,6 +20,4 @@ We have decided to focus our scope on creating documentation only up to the poin
 
 Indication about whether or not you need to update your scope:
 
-# Sprint 5 Progress Report:
-
-Indication about whether or not you need to update your scope:
+Our final scope is unchanged from last sprint. The decision to not include the "Collecting Data" section was a good choice, since we would not have the required knowledge to really add meaningful changes, and would probably result in something more confusing than it is right now. I think our current and final scope is a good place to stop, and if we had more time, we certainly would be able to expand to cover more of the documentation. 
